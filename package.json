@@ -1,0 +1,17 @@
+{
+  "name": "url-resolve",
+  "author": "jden <jason@denizac.org>",
+  "version": "1.0.0",
+  "description": "resolve multiple url segments like path.resolve",
+  "keywords": ["url", "resolve", "http"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mochi"
+  },
+  "repository": "git@github.com:jden/url-resolve.git",
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mochi": "0.3.0"
+  }
+}
